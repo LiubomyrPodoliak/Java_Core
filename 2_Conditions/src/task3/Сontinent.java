@@ -1,0 +1,6 @@
+package task3;
+
+public enum Ñontinent {
+	AFRICA,ANTARCTICA,ASIA,EUROPA,NORTH_AMERICA,AUSTRALIA,SOUTH_AMERICA;
+	
+}
